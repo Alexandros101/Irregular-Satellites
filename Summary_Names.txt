@@ -1,0 +1,365 @@
+ 
+BRIEF -- Version 4.0.0, September 8, 2010 -- Toolkit Version N0066
+ 
+ 
+Summary for: jup310.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        JUPITER BARYCENTER (5) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        IO (501) w.r.t. JUPITER BARYCENTER (5)
+        EUROPA (502) w.r.t. JUPITER BARYCENTER (5)
+        GANYMEDE (503) w.r.t. JUPITER BARYCENTER (5)
+        CALLISTO (504) w.r.t. JUPITER BARYCENTER (5)
+        AMALTHEA (505) w.r.t. JUPITER BARYCENTER (5)
+        THEBE (514) w.r.t. JUPITER BARYCENTER (5)
+        ADRASTEA (515) w.r.t. JUPITER BARYCENTER (5)
+        METIS (516) w.r.t. JUPITER BARYCENTER (5)
+        JUPITER (599) w.r.t. JUPITER BARYCENTER (5)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1850 JAN 01 00:00:41.183            2100 JAN 01 00:01:09.183
+ 
+ 
+Summary for: jup341.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        JUPITER BARYCENTER (5) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        HIMALIA (506) w.r.t. JUPITER BARYCENTER (5)
+        ELARA (507) w.r.t. JUPITER BARYCENTER (5)
+        PASIPHAE (508) w.r.t. JUPITER BARYCENTER (5)
+        SINOPE (509) w.r.t. JUPITER BARYCENTER (5)
+        LYSITHEA (510) w.r.t. JUPITER BARYCENTER (5)
+        CARME (511) w.r.t. JUPITER BARYCENTER (5)
+        ANANKE (512) w.r.t. JUPITER BARYCENTER (5)
+        LEDA (513) w.r.t. JUPITER BARYCENTER (5)
+        CALLIRRHOE (517) w.r.t. JUPITER BARYCENTER (5)
+        THEMISTO (518) w.r.t. JUPITER BARYCENTER (5)
+        MAGACLITE (519) w.r.t. JUPITER BARYCENTER (5)
+        TAYGETE (520) w.r.t. JUPITER BARYCENTER (5)
+        CHALDENE (521) w.r.t. JUPITER BARYCENTER (5)
+        HARPALYKE (522) w.r.t. JUPITER BARYCENTER (5)
+        KALYKE (523) w.r.t. JUPITER BARYCENTER (5)
+        IOCASTE (524) w.r.t. JUPITER BARYCENTER (5)
+        ERINOME (525) w.r.t. JUPITER BARYCENTER (5)
+        ISONOE (526) w.r.t. JUPITER BARYCENTER (5)
+        PRAXIDIKE (527) w.r.t. JUPITER BARYCENTER (5)
+        AUTONOE (528) w.r.t. JUPITER BARYCENTER (5)
+        THYONE (529) w.r.t. JUPITER BARYCENTER (5)
+        HERMIPPE (530) w.r.t. JUPITER BARYCENTER (5)
+        AITNE (531) w.r.t. JUPITER BARYCENTER (5)
+        EURYDOME (532) w.r.t. JUPITER BARYCENTER (5)
+        EUANTHE (533) w.r.t. JUPITER BARYCENTER (5)
+        EUPORIE (534) w.r.t. JUPITER BARYCENTER (5)
+        ORTHOSIE (535) w.r.t. JUPITER BARYCENTER (5)
+        SPONDE (536) w.r.t. JUPITER BARYCENTER (5)
+        KALE (537) w.r.t. JUPITER BARYCENTER (5)
+        PASITHEE (538) w.r.t. JUPITER BARYCENTER (5)
+        HEGEMONE (539) w.r.t. JUPITER BARYCENTER (5)
+        MNEME (540) w.r.t. JUPITER BARYCENTER (5)
+        AOEDE (541) w.r.t. JUPITER BARYCENTER (5)
+        THELXINOE (542) w.r.t. JUPITER BARYCENTER (5)
+        ARCHE (543) w.r.t. JUPITER BARYCENTER (5)
+        KALLICHORE (544) w.r.t. JUPITER BARYCENTER (5)
+        HELIKE (545) w.r.t. JUPITER BARYCENTER (5)
+        CARPO (546) w.r.t. JUPITER BARYCENTER (5)
+        EUKELADE (547) w.r.t. JUPITER BARYCENTER (5)
+        CYLLENE (548) w.r.t. JUPITER BARYCENTER (5)
+        KORE (549) w.r.t. JUPITER BARYCENTER (5)
+        HERSE (550) w.r.t. JUPITER BARYCENTER (5)
+        551 w.r.t. JUPITER BARYCENTER (5)
+        552 w.r.t. JUPITER BARYCENTER (5)
+        DIA (553) w.r.t. JUPITER BARYCENTER (5)
+        554 w.r.t. JUPITER BARYCENTER (5)
+        555 w.r.t. JUPITER BARYCENTER (5)
+        556 w.r.t. JUPITER BARYCENTER (5)
+        557 w.r.t. JUPITER BARYCENTER (5)
+        558 w.r.t. JUPITER BARYCENTER (5)
+        559 w.r.t. JUPITER BARYCENTER (5)
+        JUPITER (599) w.r.t. JUPITER BARYCENTER (5)
+        55060 w.r.t. JUPITER BARYCENTER (5)
+        55061 w.r.t. JUPITER BARYCENTER (5)
+        55062 w.r.t. JUPITER BARYCENTER (5)
+        55064 w.r.t. JUPITER BARYCENTER (5)
+        55065 w.r.t. JUPITER BARYCENTER (5)
+        55066 w.r.t. JUPITER BARYCENTER (5)
+        55068 w.r.t. JUPITER BARYCENTER (5)
+        55070 w.r.t. JUPITER BARYCENTER (5)
+        55071 w.r.t. JUPITER BARYCENTER (5)
+        55074 w.r.t. JUPITER BARYCENTER (5)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2200 JAN 01 00:01:09.183
+ 
+ 
+Summary for: mar097.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        MARS BARYCENTER (4) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        PHOBOS (401) w.r.t. MARS BARYCENTER (4)
+        DEIMOS (402) w.r.t. MARS BARYCENTER (4)
+        MARS (499) w.r.t. MARS BARYCENTER (4)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 04 00:00:41.184            2100 JAN 01 00:01:07.183
+ 
+ 
+Summary for: nep081.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        NEPTUNE BARYCENTER (8) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        TRITON (801) w.r.t. NEPTUNE BARYCENTER (8)
+        NEREID (802) w.r.t. NEPTUNE BARYCENTER (8)
+        PROTEUS (808) w.r.t. NEPTUNE BARYCENTER (8)
+        NEPTUNE (899) w.r.t. NEPTUNE BARYCENTER (8)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2100 JAN 01 00:01:07.183
+ 
+ 
+Summary for: nep086.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        NEPTUNE BARYCENTER (8) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        HALIMEDE (809) w.r.t. NEPTUNE BARYCENTER (8)
+        PSAMATHE (810) w.r.t. NEPTUNE BARYCENTER (8)
+        SAO (811) w.r.t. NEPTUNE BARYCENTER (8)
+        LAOMEDEIA (812) w.r.t. NEPTUNE BARYCENTER (8)
+        NESO (813) w.r.t. NEPTUNE BARYCENTER (8)
+        NEPTUNE (899) w.r.t. NEPTUNE BARYCENTER (8)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2100 JAN 02 00:01:07.183
+ 
+ 
+Summary for: nep090.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        NEPTUNE BARYCENTER (8) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        NAIAD (803) w.r.t. NEPTUNE BARYCENTER (8)
+        THALASSA (804) w.r.t. NEPTUNE BARYCENTER (8)
+        DESPINA (805) w.r.t. NEPTUNE BARYCENTER (8)
+        GALATEA (806) w.r.t. NEPTUNE BARYCENTER (8)
+        LARISSA (807) w.r.t. NEPTUNE BARYCENTER (8)
+        PROTEUS (808) w.r.t. NEPTUNE BARYCENTER (8)
+        814 w.r.t. NEPTUNE BARYCENTER (8)
+        NEPTUNE (899) w.r.t. NEPTUNE BARYCENTER (8)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1950 JAN 01 00:00:02.000            2049 DEC 31 00:00:00.000
+ 
+ 
+Summary for: plu055.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        PLUTO BARYCENTER (9) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        CHARON (901) w.r.t. PLUTO BARYCENTER (9)
+        NIX (902) w.r.t. PLUTO BARYCENTER (9)
+        HYDRA (903) w.r.t. PLUTO BARYCENTER (9)
+        KERBEROS (904) w.r.t. PLUTO BARYCENTER (9)
+        STYX (905) w.r.t. PLUTO BARYCENTER (9)
+        PLUTO (999) w.r.t. PLUTO BARYCENTER (9)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 08 00:00:41.184            2100 JAN 01 00:01:08.183
+ 
+ 
+Summary for: sat319.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SATURN BARYCENTER (6) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        AEGAEON (653) w.r.t. SATURN BARYCENTER (6)
+        SATURN (699) w.r.t. SATURN BARYCENTER (6)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1950 JAN 01 00:00:41.183            2050 JAN 01 00:01:06.183
+ 
+ 
+Summary for: sat368.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SATURN BARYCENTER (6) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        YMIR (619) w.r.t. SATURN BARYCENTER (6)
+        PAALIAQ (620) w.r.t. SATURN BARYCENTER (6)
+        TARVOS (621) w.r.t. SATURN BARYCENTER (6)
+        IJIRAQ (622) w.r.t. SATURN BARYCENTER (6)
+        SUTTUNGR (623) w.r.t. SATURN BARYCENTER (6)
+        KIVIUQ (624) w.r.t. SATURN BARYCENTER (6)
+        MUNDILFARI (625) w.r.t. SATURN BARYCENTER (6)
+        ALBIORIX (626) w.r.t. SATURN BARYCENTER (6)
+        SKATHI (627) w.r.t. SATURN BARYCENTER (6)
+        ERRIAPUS (628) w.r.t. SATURN BARYCENTER (6)
+        SIARNAQ (629) w.r.t. SATURN BARYCENTER (6)
+        THRYMR (630) w.r.t. SATURN BARYCENTER (6)
+        NARVI (631) w.r.t. SATURN BARYCENTER (6)
+        AEGIR (636) w.r.t. SATURN BARYCENTER (6)
+        BEBHIONN (637) w.r.t. SATURN BARYCENTER (6)
+        BERGELMIR (638) w.r.t. SATURN BARYCENTER (6)
+        BESTLA (639) w.r.t. SATURN BARYCENTER (6)
+        FARBAUTI (640) w.r.t. SATURN BARYCENTER (6)
+        FENRIR (641) w.r.t. SATURN BARYCENTER (6)
+        FORNJOT (642) w.r.t. SATURN BARYCENTER (6)
+        HATI (643) w.r.t. SATURN BARYCENTER (6)
+        HYRROKKIN (644) w.r.t. SATURN BARYCENTER (6)
+        KARI (645) w.r.t. SATURN BARYCENTER (6)
+        LOGE (646) w.r.t. SATURN BARYCENTER (6)
+        SKOLL (647) w.r.t. SATURN BARYCENTER (6)
+        SURTUR (648) w.r.t. SATURN BARYCENTER (6)
+        JARNSAXA (650) w.r.t. SATURN BARYCENTER (6)
+        GREIP (651) w.r.t. SATURN BARYCENTER (6)
+        TARQEQ (652) w.r.t. SATURN BARYCENTER (6)
+        SATURN (699) w.r.t. SATURN BARYCENTER (6)
+        65035 w.r.t. SATURN BARYCENTER (6)
+        65040 w.r.t. SATURN BARYCENTER (6)
+        65041 w.r.t. SATURN BARYCENTER (6)
+        65045 w.r.t. SATURN BARYCENTER (6)
+        65048 w.r.t. SATURN BARYCENTER (6)
+        65050 w.r.t. SATURN BARYCENTER (6)
+        65055 w.r.t. SATURN BARYCENTER (6)
+        65056 w.r.t. SATURN BARYCENTER (6)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2100 JAN 01 00:01:07.183
+ 
+ 
+Summary for: sat375.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SATURN BARYCENTER (6) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        MIMAS (601) w.r.t. SATURN BARYCENTER (6)
+        ENCELADUS (602) w.r.t. SATURN BARYCENTER (6)
+        TETHYS (603) w.r.t. SATURN BARYCENTER (6)
+        DIONE (604) w.r.t. SATURN BARYCENTER (6)
+        RHEA (605) w.r.t. SATURN BARYCENTER (6)
+        TITAN (606) w.r.t. SATURN BARYCENTER (6)
+        HYPERION (607) w.r.t. SATURN BARYCENTER (6)
+        IAPETUS (608) w.r.t. SATURN BARYCENTER (6)
+        PHOEBE (609) w.r.t. SATURN BARYCENTER (6)
+        SATURN (699) w.r.t. SATURN BARYCENTER (6)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2100 JAN 01 00:01:07.183
+ 
+ 
+Summary for: sat393-rocks_pan.bsp
+ 
+Body: PAN (618) w.r.t. SATURN (699)
+      Start of Interval (ET)              End of Interval (ET)
+      -----------------------------       -----------------------------
+      1950 JAN 01 00:00:00.000            2050 JAN 01 00:00:00.000
+ 
+ 
+Summary for: sat393.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SATURN BARYCENTER (6) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        JANUS (610) w.r.t. SATURN BARYCENTER (6)
+        EPIMETHEUS (611) w.r.t. SATURN BARYCENTER (6)
+        HELENE (612) w.r.t. SATURN BARYCENTER (6)
+        TELESTO (613) w.r.t. SATURN BARYCENTER (6)
+        CALYPSO (614) w.r.t. SATURN BARYCENTER (6)
+        ATLAS (615) w.r.t. SATURN BARYCENTER (6)
+        PROMETHEUS (616) w.r.t. SATURN BARYCENTER (6)
+        PANDORA (617) w.r.t. SATURN BARYCENTER (6)
+        METHONE (632) w.r.t. SATURN BARYCENTER (6)
+        PALLENE (633) w.r.t. SATURN BARYCENTER (6)
+        POLYDEUCES (634) w.r.t. SATURN BARYCENTER (6)
+        ANTHE (649) w.r.t. SATURN BARYCENTER (6)
+        AEGAEON (653) w.r.t. SATURN BARYCENTER (6)
+        SATURN (699) w.r.t. SATURN BARYCENTER (6)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1950 JAN 01 00:00:41.183            2050 JAN 01 00:01:08.183
+ 
+ 
+Summary for: sat393_daphnis.bsp
+ 
+Body: DAPHNIS (635) w.r.t. SATURN (699)
+      Start of Interval (ET)              End of Interval (ET)
+      -----------------------------       -----------------------------
+      1949 DEC 26 00:00:00.000            2050 JAN 10 00:00:00.000
+ 
+ 
+Summary for: ura091-rocks-merge.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        URANUS BARYCENTER (7) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        CORDELIA (706) w.r.t. URANUS (799)
+        OPHELIA (707) w.r.t. URANUS (799)
+        BIANCA (708) w.r.t. URANUS (799)
+        CRESSIDA (709) w.r.t. URANUS (799)
+        DESDEMONA (710) w.r.t. URANUS (799)
+        JULIET (711) w.r.t. URANUS (799)
+        PORTIA (712) w.r.t. URANUS (799)
+        ROSALIND (713) w.r.t. URANUS (799)
+        BELINDA (714) w.r.t. URANUS (799)
+        PUCK (715) w.r.t. URANUS (799)
+        PERDITA (725) w.r.t. URANUS (799)
+        MAB (726) w.r.t. URANUS (799)
+        CUPID (727) w.r.t. URANUS (799)
+        URANUS (799) w.r.t. URANUS BARYCENTER (7)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 04 00:00:41.184            2099 DEC 23 00:01:07.183
+ 
+ 
+Summary for: ura111.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        URANUS BARYCENTER (7) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        ARIEL (701) w.r.t. URANUS BARYCENTER (7)
+        UMBRIEL (702) w.r.t. URANUS BARYCENTER (7)
+        TITANIA (703) w.r.t. URANUS BARYCENTER (7)
+        OBERON (704) w.r.t. URANUS BARYCENTER (7)
+        MIRANDA (705) w.r.t. URANUS BARYCENTER (7)
+        URANUS (799) w.r.t. URANUS BARYCENTER (7)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2099 DEC 24 00:01:07.183
+ 
+ 
+Summary for: ura112.bsp
+ 
+Bodies: EARTH BARYCENTER (3) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        URANUS BARYCENTER (7) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        SUN (10) w.r.t. SOLAR SYSTEM BARYCENTER (0)
+        EARTH (399) w.r.t. EARTH BARYCENTER (3)
+        CALIBAN (716) w.r.t. URANUS BARYCENTER (7)
+        SYCORAX (717) w.r.t. URANUS BARYCENTER (7)
+        PROSPERO (718) w.r.t. URANUS BARYCENTER (7)
+        SETEBOS (719) w.r.t. URANUS BARYCENTER (7)
+        STEPHANO (720) w.r.t. URANUS BARYCENTER (7)
+        TRINCULO (721) w.r.t. URANUS BARYCENTER (7)
+        FRANCISCO (722) w.r.t. URANUS BARYCENTER (7)
+        MARGARET (723) w.r.t. URANUS BARYCENTER (7)
+        FERDINAND (724) w.r.t. URANUS BARYCENTER (7)
+        URANUS (799) w.r.t. URANUS BARYCENTER (7)
+        Start of Interval (ET)              End of Interval (ET)
+        -----------------------------       -----------------------------
+        1900 JAN 01 00:00:41.183            2099 DEC 24 00:01:07.183
+ 
