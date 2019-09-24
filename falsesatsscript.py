@@ -20,26 +20,26 @@ def Furnisher(k):
     
     '''
     spice.kclear()
-    spice.furnsh('/Users/user/Downloads/naif0008.tls.txt')
+    spice.furnsh('naif0008.tls.txt')
     if k == '310+341+435':
-            spice.furnsh('/Users/user/Downloads/jup310.bsp')
-            spice.furnsh('/Users/user/Downloads/jup341.bsp')
-            spice.furnsh('/Users/user/Downloads/de435.bsp')
+            spice.furnsh('jup310.bsp')
+            spice.furnsh('jup341.bsp')
+            spice.furnsh('de435.bsp')
     elif k == '310+341':
-            spice.furnsh('/Users/user/Downloads/jup310.bsp')
-            spice.furnsh('/Users/user/Downloads/jup341.bsp')
+            spice.furnsh('jup310.bsp')
+            spice.furnsh('jup341.bsp')
     elif k == '310+435':
-            spice.furnsh('/Users/user/Downloads/de435.bsp')
-            spice.furnsh('/Users/user/Downloads/jup310.bsp')
+            spice.furnsh('de435.bsp')
+            spice.furnsh('jup310.bsp')
     elif k == '341+435':
-            spice.furnsh('/Users/user/Downloads/jup341.bsp')
-            spice.furnsh('/Users/user/Downloads/de435.bsp')
+            spice.furnsh('jup341.bsp')
+            spice.furnsh('de435.bsp')
     elif k == '310':
-            spice.furnsh('/Users/user/Downloads/jup310.bsp')
+            spice.furnsh('jup310.bsp')
     elif k == '341':
-            spice.furnsh('/Users/user/Downloads/jup341.bsp')
+            spice.furnsh('jup341.bsp')
     elif k == '435':
-            spice.furnsh('/Users/user/Downloads/de435.bsp')
+            spice.furnsh('de435.bsp')
     pass
     
 def get_spice_function(name,cor,loc):
